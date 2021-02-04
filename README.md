@@ -1,6 +1,8 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/kariiv/kariiv/master/wave.gif" width="30px">
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauri-riivik-a43a0015b/)](https://www.linkedin.com/in/kauri-riivik-a43a0015b/)
+[![Gmail Badge](https://img.shields.io/badge/-kauririivik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauririivik@gmail.com)](mailto:kauririivik@gmail.com)
 
 ## ⚡ Technologies
 
