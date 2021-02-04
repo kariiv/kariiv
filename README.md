@@ -1,4 +1,4 @@
-## Fancy seeing you here!
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/kariiv/kariiv/master/wave.gif" width="30px">
 
 
 
