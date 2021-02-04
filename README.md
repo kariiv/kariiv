@@ -26,14 +26,9 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kariiv&show_icons=true&theme=dark" alt="kariiv" />
-<br />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariiv&layout=compact&hide=html&theme=dark" alt="kariiv" />
 
-<br />
-
 ![Visitors since 04 Feb 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kariiv&repo=kariiv&countColor=%237B1E7A)
-
 
 <!--
 **kariiv/kariiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
