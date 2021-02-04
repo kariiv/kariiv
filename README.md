@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kariiv&show_icons=true&theme=dark" alt="kariiv" />
 <br />
 
